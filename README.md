@@ -25,3 +25,6 @@ this script allows custom sizes of hdd. makes sure to do the last step in step 8
     A/systemmisc.xvd
     A/systemtools.xvd
     B/host.xvd
+
+
+make sure to also put the bootanim.dat into the A and B folder. animation is not interchangable anymore.
